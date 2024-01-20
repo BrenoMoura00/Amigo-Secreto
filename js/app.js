@@ -10,3 +10,9 @@ function adicionar() {
 
     amigo.value = '';
 }
+
+let sortear = document.getElementById;
+
+function reniciar(){
+    
+}
